@@ -31,8 +31,8 @@ Mboablog est une plateforme de blogging robuste et élégante, construite from s
    ```
 2. Configurez votre serveur web (Apache/Nginx) pour pointer vers le dossier `public/`
 3. Importez la base de données : `blog.sql`
-4. Copiez `config/config.example.php` vers `config/config.php` et ajustez les paramètres
-5. Lancez le serveur et naviguez vers `http://localhost/monblog`
+4. Modifier `config/database.example.php` vers `config/database.php` et ajustez les paramètres
+5. Lancez le serveur et naviguez vers `http://localhost/Mboablog`
 
 ## 📊 Démonstration
 
