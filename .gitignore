@@ -1,0 +1,56 @@
+# Fichiers et dossiers spécifiques à l'IDE/éditeur
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+
+# Fichiers de configuration PHP
+php.ini
+.php-ini
+
+# Dépendances installées via Composer
+/vendor/
+vendor/
+# Fichiers de configuration d'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers de cache et logs
+/cache/
+/logs/
+*.log
+*.cache
+
+# Fichiers de session PHP
+/sessions/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers de base de données
+*.sql
+*.sqlite
+
+# Fichiers d'upload 
+storage/
+storage/images/
+
+# Fichiers de build/compilation
+/build/
+/dist/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration spécifiques à l'application
+database.php
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
