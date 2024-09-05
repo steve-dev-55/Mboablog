@@ -32,7 +32,7 @@ vendor/
 *.backup
 
 # Fichiers de base de données
-*.sql
+#*.sql
 *.sqlite
 
 # Fichiers d'upload 
