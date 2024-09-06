@@ -36,8 +36,7 @@ Mboablog est une plateforme de blogging robuste et élégante, construite from s
 
 ## 📊 Démonstration
 
-Visitez [https://demo-monblog.com](https://demo-monblog.com) pour voir le blog en action.
-- **Admin Demo** : admin@demo.com / password: demo123
+Visitez [Mboablog](https://mboablog.000.pe/) pour voir le blog en action.
 
 ## 🔍 Points Forts du Code
 
@@ -55,8 +54,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 Je suis actuellement disponible pour des missions freelance. N'hésitez pas à me contacter pour discuter de vos projets !
 
 - Email : votre.email@example.com
-- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/votre-profil/)
-- Portfolio : [www.votre-portfolio.com](https://www.votre-portfolio.com)
+- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/steve-djoumessi-81461919/)
 
 ## 📜 Licence
 
