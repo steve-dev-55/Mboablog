@@ -3,7 +3,7 @@
 ## 📌 Aperçu
 Mboablog est une plateforme de blogging robuste et élégante, construite from scratch en PHP. Ce projet démontre ma capacité à concevoir et implémenter une application web complète, en mettant l'accent sur la performance, la sécurité et l'expérience utilisateur.
 
-![Capture d'écran du blog]((https://mboablog.000.pe/mboablog.000.pe.png))
+![Capture d'écran du blog](https://mboablog.000.pe/mboablog.000.pe.png)
 
 ## 🌟 Fonctionnalités Clés
 
