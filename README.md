@@ -3,7 +3,7 @@
 ## 📌 Aperçu
 Mboablog est une plateforme de blogging robuste et élégante, construite from scratch en PHP. Ce projet démontre ma capacité à concevoir et implémenter une application web complète, en mettant l'accent sur la performance, la sécurité et l'expérience utilisateur.
 
-![Capture d'écran du blog](lien_vers_capture_ecran.png)
+![Capture d'écran du blog]((https://mboablog.000.pe/mboablog.000.pe.png))
 
 ## 🌟 Fonctionnalités Clés
 
@@ -53,7 +53,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 
 Je suis actuellement disponible pour des missions freelance. N'hésitez pas à me contacter pour discuter de vos projets !
 
-- Email : votre.email@example.com
 - LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/steve-djoumessi-81461919/)
 
 ## 📜 Licence
